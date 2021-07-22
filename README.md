@@ -13,6 +13,7 @@
         <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-%230081CB?&style=for-the-badge&logo=material-ui&logoColor=white" />
         <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+        <img height="28" src="https://user-images.githubusercontent.com/75913066/125658941-12717ddd-ec81-471c-9aa2-faacde559a31.png">
       </td>
     </tr>
     <tr>
