@@ -1,4 +1,4 @@
-### Hi, Felipe Erazo 👋
+# Hi, Felipe Erazo 👋
 
 #### I enjoy designing and building full-stack web applications to enhances humans lives.
 
